@@ -16,4 +16,4 @@ A simple notepad-like text editor built with tkinter that's still in the works.
 2. Support for .html, .php, .py, .sh, .java files with syntax highlighting
 
 ### Where is this going to go?
-Well, I do want a personal text editor that only has the functionality I need but mainly this is a learning oppurtunity to build something fun that is also a long-term project that'll grow with me.
+Well, I do want a personal text editor but mainly this is a learning oppurtunity to build something fun that is also a long-term project that'll grow with me.
