@@ -11,7 +11,7 @@ A simple notepad-like text editor built with tkinter that's still in the works.
 1. Exiting the file doesn't prompt a warning to save the file if the file is not saved
 
 
-### Features I plan on implementing
+### Big Features I plan on implementing
 1. A File Manager
 2. Support for .html, .php, .py, .sh, .java files with syntax highlighting
 
